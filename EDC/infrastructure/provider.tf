@@ -9,4 +9,4 @@ terraform {
     key    = "state/igti/edc/terraform.tfstate"
     region = "us-east-2"
   }
-}
+} 
